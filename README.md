@@ -42,10 +42,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Stat Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=manish5476&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Manish's GitHub Stats" />
+  <!-- GitHub Stat Cards using a stable alternative server -->
+  <img src="https://github-readme-stats.shion.dev/api?username=manish5476&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Manish's GitHub Stats" />
+  
   <br><br>
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish5476&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- Top Languages Card using a stable alternative server -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manish5476&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
