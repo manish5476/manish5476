@@ -44,7 +44,6 @@
 <div align="center">
   <!-- GitHub Stat Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=manish5476&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Manish's GitHub Stats" />
-  
   <br><br>
   
   <!-- Top Languages Card -->
